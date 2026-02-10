@@ -75,9 +75,10 @@ Beberapa hal kecil yang bisa Anda rapikan agar markup lebih “clean”:
 - [ ] Multi-bahasa (ID/EN)
 
 ## 👤 Author
-- Nama: **<NAMA_ANDA>**
-- Dicoding: https://www.dicoding.com/users/<username>
-- GitHub: https://github.com/<username>
+- Nama: **EB Willem**
+- Dicoding: https://www.dicoding.com/users/ebwillem/academies
+- GitHub: https://github.com/engelwillem/info-bukittinggi.git
+- Link Deploy: https://engelwillem.github.io/info-bukittinggi/
 
 ## 📄 Lisensi
 Project ini menggunakan lisensi **MIT** — lihat berkas [LICENSE](LICENSE).
