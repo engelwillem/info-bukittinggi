@@ -1,4 +1,4 @@
-# Info Bagi Traveler Domestik Bukittinggi
+# Info (Darurat & Transport) Bagi Traveler Domestik Bukittinggi
 
 > Proyek latihan front-end (HTML + CSS) sebagai bagian dari progres belajar coding melalui sertifikasi Belajar Dasar Pemrograman Web di **Dicoding Indonesia**.  
 > Fokus: **semantic HTML**, **Flexbox layout**, **responsif**, dan **aksesibilitas dasar**.
